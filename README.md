@@ -1,9 +1,9 @@
-# Collections Practice
+# Collections Practice Lab
 
-## Objectives
+## Learning Goals
 
-1. Become proficient at manipulating arrays
-2. Practice using higher level Ruby enumerators like `.collect` and `.sort`
+- Become proficient at manipulating arrays
+- Practice using higher level Ruby enumerators like `.collect` and `.sort`
 
 ## Instructions
 
@@ -61,5 +61,3 @@ Build a method that adds an `"s"` to each word in the array except for the secon
 ```ruby
 [1,2].each_with_index.collect{|element, index| }
 ```
-
-
